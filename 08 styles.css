@@ -1,0 +1,28 @@
+/* External CSS File link */
+/* Link for the 08 External CSS.html file */
+
+body {
+	background-color : powderblue;
+}
+h1 {
+	color : blue;
+}
+h2 {
+	color : black;
+}
+h3 {
+	color : #FFD700;
+}
+p {
+	color : pink;
+}
+p {
+	color: #FF8C00;
+}
+ol {
+	color : #DC143C;
+}
+ul {
+	color: #8A2BE2;
+}
+

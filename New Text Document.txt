@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Test Environment</title>
+</head>
+<body>
+<h1>This is <b> <i> Thrinadh Manubohtu</h1>
+<p> Currently in my <br> sophomore year with majors in Information Techonology</p>
+</body>
+</html>
